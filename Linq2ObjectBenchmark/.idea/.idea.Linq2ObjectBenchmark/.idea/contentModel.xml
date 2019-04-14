@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Linq2ObjectBenchmark" t="IncludeRecursive">
+        <e p="BenchmarkDotNet.Artifacts" t="Include">
+          <e p="Linq2ObjectBenchmark.Items.AnyBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.CountFunctionBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.CountPropertyBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.CountWithLambdaBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.CountWithLambdaOptimizedBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.ForEachBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.Items.ForEachOptimizedBenchmark.log" t="Include" />
+          <e p="Linq2ObjectBenchmark.TestBenchmark.log" t="Include" />
+          <e p="results" t="Include">
+            <e p="Linq2ObjectBenchmark.Items.AnyBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.AnyBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.AnyBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountFunctionBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountFunctionBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountFunctionBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountPropertyBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountPropertyBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountPropertyBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaOptimizedBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaOptimizedBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.CountWithLambdaOptimizedBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachOptimizedBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachOptimizedBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.Items.ForEachOptimizedBenchmark-report.html" t="Include" />
+            <e p="Linq2ObjectBenchmark.TestBenchmark-report-github.md" t="Include" />
+            <e p="Linq2ObjectBenchmark.TestBenchmark-report.csv" t="Include" />
+            <e p="Linq2ObjectBenchmark.TestBenchmark-report.html" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entity.cs" t="Include" />
+        <e p="Items" t="Include">
+          <e p="AnyBenchmark.cs" t="Include" />
+          <e p="AnyWithLambdaBenchmark.cs" t="Include" />
+          <e p="AnyWithLambdaOptimizedBenchmark.cs" t="Include" />
+          <e p="CountFunctionBenchmark.cs" t="Include" />
+          <e p="CountPropertyBenchmark.cs" t="Include" />
+          <e p="CountWithLambdaBenchmark.cs" t="Include" />
+          <e p="CountWithLambdaOptimizedBenchmark.cs" t="Include" />
+          <e p="FirstOrDefaultBenchmark.cs" t="Include" />
+          <e p="FirstOrDefaultOptimizedBenchmark.cs" t="Include" />
+          <e p="FirstOrDefaultWithLambdaBenchmark.cs" t="Include" />
+          <e p="ForEachBenchmark.cs" t="Include" />
+          <e p="ForEachOptimizedBenchmark.cs" t="Include" />
+          <e p="OfTypeBenchmark.cs" t="Include" />
+          <e p="OfTypeOptimizedBenchmark.cs" t="Include" />
+          <e p="SelectBenchmark.cs" t="Include" />
+          <e p="SelectOptimizedBenchmark.cs" t="Include" />
+          <e p="WhereBenchmark.cs" t="Include" />
+          <e p="WhereOptimizedBenchmark.cs" t="Include" />
+        </e>
+        <e p="Linq2ObjectBenchmark.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Linq2ObjectBenchmark.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SetupHelper.cs" t="Include" />
+      </e>
+      <e p="Linq2ObjectBenchmark.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Linq2ObjectBenchmark.-1056602460.00" t="ExcludeRecursive" />
+  </component>
+</project>
